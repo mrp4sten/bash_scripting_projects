@@ -19,7 +19,3 @@
 ## Exercise 5
 
 - Use of NR built-in variables (Display Line From 3 to 6)
-
-## Exercise 6
-
-- Use of NR built-in variables (Display Line From 3 to 6)
