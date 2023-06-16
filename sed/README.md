@@ -2,6 +2,10 @@
 
 You should download necessary csv file
 
+```bash
+curl -s https://launchcodetechnicaltraining.org/api/walkthrough/user?data_format=csv > user.csv
+```
+
 ## Exercise 1
 
 > Substitute all employers by the name of Hunter Engineering for LaunchCode
